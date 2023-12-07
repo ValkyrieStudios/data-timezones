@@ -8,6 +8,8 @@
 .gitignore
 .eslintrc.json
 .travis.yml
+full.json
+test.mjs
 adjust_esm_to_cjs.sh
 codecov.sh
 codecov
