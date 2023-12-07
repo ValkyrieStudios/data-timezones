@@ -1,1566 +1,1758 @@
 [
     {
         "name": "Africa/Abidjan",
-        "zone": "Africa/Abidjan"
-    },
-    {
-        "name": "Africa/Accra",
-        "zone": "Africa/Abidjan"
+        "aliases": [
+            "Africa/Accra",
+            "Africa/Bamako",
+            "Africa/Banjul",
+            "Africa/Conakry",
+            "Africa/Dakar",
+            "Africa/Freetown",
+            "Africa/Lome",
+            "Africa/Nouakchott",
+            "Africa/Ouagadougou",
+            "Africa/Timbuktu",
+            "Atlantic/Reykjavik",
+            "Atlantic/St_Helena",
+            "Iceland"
+        ]
     },
     {
         "name": "Africa/Algiers",
-        "zone": "Africa/Algiers"
+        "aliases": []
     },
     {
         "name": "Africa/Bissau",
-        "zone": "Africa/Bissau"
+        "aliases": []
     },
     {
         "name": "Africa/Cairo",
-        "zone": "Africa/Cairo"
+        "aliases": [
+            "Egypt"
+        ]
     },
     {
         "name": "Africa/Casablanca",
-        "zone": "Africa/Casablanca"
+        "aliases": []
     },
     {
         "name": "Africa/Ceuta",
-        "zone": "Africa/Ceuta"
+        "aliases": []
     },
     {
         "name": "Africa/El_Aaiun",
-        "zone": "Africa/El_Aaiun"
+        "aliases": []
     },
     {
         "name": "Africa/Johannesburg",
-        "zone": "Africa/Johannesburg"
+        "aliases": [
+            "Africa/Maseru",
+            "Africa/Mbabane"
+        ]
     },
     {
         "name": "Africa/Juba",
-        "zone": "Africa/Juba"
+        "aliases": []
     },
     {
         "name": "Africa/Khartoum",
-        "zone": "Africa/Khartoum"
+        "aliases": []
     },
     {
         "name": "Africa/Lagos",
-        "zone": "Africa/Lagos"
+        "aliases": [
+            "Africa/Bangui",
+            "Africa/Brazzaville",
+            "Africa/Douala",
+            "Africa/Kinshasa",
+            "Africa/Libreville",
+            "Africa/Luanda",
+            "Africa/Malabo",
+            "Africa/Niamey",
+            "Africa/Porto-Novo"
+        ]
     },
     {
         "name": "Africa/Maputo",
-        "zone": "Africa/Maputo"
+        "aliases": [
+            "Africa/Blantyre",
+            "Africa/Bujumbura",
+            "Africa/Gaborone",
+            "Africa/Harare",
+            "Africa/Kigali",
+            "Africa/Lubumbashi",
+            "Africa/Lusaka"
+        ]
     },
     {
         "name": "Africa/Monrovia",
-        "zone": "Africa/Monrovia"
+        "aliases": []
     },
     {
         "name": "Africa/Nairobi",
-        "zone": "Africa/Nairobi"
+        "aliases": [
+            "Africa/Addis_Ababa",
+            "Africa/Asmara",
+            "Africa/Asmera",
+            "Africa/Dar_es_Salaam",
+            "Africa/Djibouti",
+            "Africa/Kampala",
+            "Africa/Mogadishu",
+            "Indian/Antananarivo",
+            "Indian/Comoro",
+            "Indian/Mayotte"
+        ]
     },
     {
         "name": "Africa/Ndjamena",
-        "zone": "Africa/Ndjamena"
+        "aliases": []
     },
     {
         "name": "Africa/Sao_Tome",
-        "zone": "Africa/Sao_Tome"
+        "aliases": []
     },
     {
         "name": "Africa/Tripoli",
-        "zone": "Africa/Tripoli"
+        "aliases": [
+            "Libya"
+        ]
     },
     {
         "name": "Africa/Tunis",
-        "zone": "Africa/Tunis"
+        "aliases": []
     },
     {
         "name": "Africa/Windhoek",
-        "zone": "Africa/Windhoek"
+        "aliases": []
     },
     {
         "name": "America/Adak",
-        "zone": "America/Adak"
+        "aliases": [
+            "America/Atka",
+            "US/Aleutian"
+        ]
     },
     {
         "name": "America/Anchorage",
-        "zone": "America/Anchorage"
+        "aliases": [
+            "US/Alaska"
+        ]
     },
     {
         "name": "America/Araguaina",
-        "zone": "America/Araguaina"
+        "aliases": []
     },
     {
         "name": "America/Argentina/Buenos_Aires",
-        "zone": "America/Argentina/Buenos_Aires"
+        "aliases": [
+            "America/Buenos_Aires"
+        ]
     },
     {
         "name": "America/Argentina/Catamarca",
-        "zone": "America/Argentina/Catamarca"
+        "aliases": [
+            "America/Argentina/ComodRivadavia",
+            "America/Catamarca"
+        ]
     },
     {
         "name": "America/Argentina/Cordoba",
-        "zone": "America/Argentina/Cordoba"
+        "aliases": [
+            "America/Cordoba",
+            "America/Rosario"
+        ]
     },
     {
         "name": "America/Argentina/Jujuy",
-        "zone": "America/Argentina/Jujuy"
+        "aliases": [
+            "America/Jujuy"
+        ]
     },
     {
         "name": "America/Argentina/La_Rioja",
-        "zone": "America/Argentina/La_Rioja"
+        "aliases": []
     },
     {
         "name": "America/Argentina/Mendoza",
-        "zone": "America/Argentina/Mendoza"
+        "aliases": [
+            "America/Mendoza"
+        ]
     },
     {
         "name": "America/Argentina/Rio_Gallegos",
-        "zone": "America/Argentina/Rio_Gallegos"
+        "aliases": []
     },
     {
         "name": "America/Argentina/Salta",
-        "zone": "America/Argentina/Salta"
+        "aliases": []
     },
     {
         "name": "America/Argentina/San_Juan",
-        "zone": "America/Argentina/San_Juan"
+        "aliases": []
     },
     {
         "name": "America/Argentina/San_Luis",
-        "zone": "America/Argentina/San_Luis"
+        "aliases": []
     },
     {
         "name": "America/Argentina/Tucuman",
-        "zone": "America/Argentina/Tucuman"
+        "aliases": []
     },
     {
         "name": "America/Argentina/Ushuaia",
-        "zone": "America/Argentina/Ushuaia"
+        "aliases": []
     },
     {
         "name": "America/Asuncion",
-        "zone": "America/Asuncion"
-    },
-    {
-        "name": "America/Atikokan",
-        "zone": "America/Panama"
+        "aliases": []
     },
     {
         "name": "America/Bahia",
-        "zone": "America/Bahia"
+        "aliases": []
     },
     {
         "name": "America/Bahia_Banderas",
-        "zone": "America/Bahia_Banderas"
+        "aliases": []
     },
     {
         "name": "America/Barbados",
-        "zone": "America/Barbados"
+        "aliases": []
     },
     {
         "name": "America/Belem",
-        "zone": "America/Belem"
+        "aliases": []
     },
     {
         "name": "America/Belize",
-        "zone": "America/Belize"
-    },
-    {
-        "name": "America/Blanc-Sablon",
-        "zone": "America/Puerto_Rico"
+        "aliases": []
     },
     {
         "name": "America/Boa_Vista",
-        "zone": "America/Boa_Vista"
+        "aliases": []
     },
     {
         "name": "America/Bogota",
-        "zone": "America/Bogota"
+        "aliases": []
     },
     {
         "name": "America/Boise",
-        "zone": "America/Boise"
+        "aliases": []
     },
     {
         "name": "America/Cambridge_Bay",
-        "zone": "America/Cambridge_Bay"
+        "aliases": []
     },
     {
         "name": "America/Campo_Grande",
-        "zone": "America/Campo_Grande"
+        "aliases": []
     },
     {
         "name": "America/Cancun",
-        "zone": "America/Cancun"
+        "aliases": []
     },
     {
         "name": "America/Caracas",
-        "zone": "America/Caracas"
+        "aliases": []
     },
     {
         "name": "America/Cayenne",
-        "zone": "America/Cayenne"
+        "aliases": []
     },
     {
         "name": "America/Chicago",
-        "zone": "America/Chicago"
+        "aliases": [
+            "US/Central"
+        ]
     },
     {
         "name": "America/Chihuahua",
-        "zone": "America/Chihuahua"
+        "aliases": []
     },
     {
         "name": "America/Ciudad_Juarez",
-        "zone": "America/Ciudad_Juarez"
-    },
-    {
-        "name": "America/Creston",
-        "zone": "America/Phoenix"
+        "aliases": []
     },
     {
         "name": "America/Costa_Rica",
-        "zone": "America/Costa_Rica"
+        "aliases": []
     },
     {
         "name": "America/Cuiaba",
-        "zone": "America/Cuiaba"
-    },
-    {
-        "name": "America/Curacao",
-        "zone": "America/Puerto_Rico"
+        "aliases": []
     },
     {
         "name": "America/Danmarkshavn",
-        "zone": "America/Danmarkshavn"
+        "aliases": []
     },
     {
         "name": "America/Dawson",
-        "zone": "America/Dawson"
+        "aliases": []
     },
     {
         "name": "America/Dawson_Creek",
-        "zone": "America/Dawson_Creek"
+        "aliases": []
     },
     {
         "name": "America/Denver",
-        "zone": "America/Denver"
+        "aliases": [
+            "America/Shiprock",
+            "Navajo",
+            "US/Mountain"
+        ]
     },
     {
         "name": "America/Detroit",
-        "zone": "America/Detroit"
+        "aliases": [
+            "US/Michigan"
+        ]
     },
     {
         "name": "America/Edmonton",
-        "zone": "America/Edmonton"
+        "aliases": [
+            "America/Yellowknife",
+            "Canada/Mountain"
+        ]
     },
     {
         "name": "America/Eirunepe",
-        "zone": "America/Eirunepe"
+        "aliases": []
     },
     {
         "name": "America/El_Salvador",
-        "zone": "America/El_Salvador"
+        "aliases": []
     },
     {
         "name": "America/Fort_Nelson",
-        "zone": "America/Fort_Nelson"
+        "aliases": []
     },
     {
         "name": "America/Fortaleza",
-        "zone": "America/Fortaleza"
+        "aliases": []
     },
     {
         "name": "America/Glace_Bay",
-        "zone": "America/Glace_Bay"
-    },
-    {
-        "name": "America/Godthab",
-        "zone": "America/Nuuk"
+        "aliases": []
     },
     {
         "name": "America/Goose_Bay",
-        "zone": "America/Goose_Bay"
+        "aliases": []
     },
     {
         "name": "America/Grand_Turk",
-        "zone": "America/Grand_Turk"
+        "aliases": []
     },
     {
         "name": "America/Guatemala",
-        "zone": "America/Guatemala"
+        "aliases": []
     },
     {
         "name": "America/Guayaquil",
-        "zone": "America/Guayaquil"
+        "aliases": []
     },
     {
         "name": "America/Guyana",
-        "zone": "America/Guyana"
+        "aliases": []
     },
     {
         "name": "America/Halifax",
-        "zone": "America/Halifax"
+        "aliases": [
+            "Canada/Atlantic"
+        ]
     },
     {
         "name": "America/Havana",
-        "zone": "America/Havana"
+        "aliases": [
+            "Cuba"
+        ]
     },
     {
         "name": "America/Hermosillo",
-        "zone": "America/Hermosillo"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Indianapolis",
-        "zone": "America/Indiana/Indianapolis"
+        "aliases": [
+            "America/Fort_Wayne",
+            "America/Indianapolis",
+            "US/East-Indiana"
+        ]
     },
     {
         "name": "America/Indiana/Knox",
-        "zone": "America/Indiana/Knox"
+        "aliases": [
+            "America/Knox_IN",
+            "US/Indiana-Starke"
+        ]
     },
     {
         "name": "America/Indiana/Marengo",
-        "zone": "America/Indiana/Marengo"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Petersburg",
-        "zone": "America/Indiana/Petersburg"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Tell_City",
-        "zone": "America/Indiana/Tell_City"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Vevay",
-        "zone": "America/Indiana/Vevay"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Vincennes",
-        "zone": "America/Indiana/Vincennes"
+        "aliases": []
     },
     {
         "name": "America/Indiana/Winamac",
-        "zone": "America/Indiana/Winamac"
+        "aliases": []
     },
     {
         "name": "America/Inuvik",
-        "zone": "America/Inuvik"
+        "aliases": []
     },
     {
         "name": "America/Iqaluit",
-        "zone": "America/Iqaluit"
+        "aliases": [
+            "America/Pangnirtung"
+        ]
     },
     {
         "name": "America/Jamaica",
-        "zone": "America/Jamaica"
+        "aliases": [
+            "Jamaica"
+        ]
     },
     {
         "name": "America/Juneau",
-        "zone": "America/Juneau"
+        "aliases": []
     },
     {
         "name": "America/Kentucky/Louisville",
-        "zone": "America/Kentucky/Louisville"
+        "aliases": [
+            "America/Louisville"
+        ]
     },
     {
         "name": "America/Kentucky/Monticello",
-        "zone": "America/Kentucky/Monticello"
+        "aliases": []
     },
     {
         "name": "America/La_Paz",
-        "zone": "America/La_Paz"
+        "aliases": []
     },
     {
         "name": "America/Lima",
-        "zone": "America/Lima"
+        "aliases": []
     },
     {
         "name": "America/Los_Angeles",
-        "zone": "America/Los_Angeles"
+        "aliases": [
+            "US/Pacific"
+        ]
     },
     {
         "name": "America/Maceio",
-        "zone": "America/Maceio"
+        "aliases": []
     },
     {
         "name": "America/Managua",
-        "zone": "America/Managua"
+        "aliases": []
     },
     {
         "name": "America/Manaus",
-        "zone": "America/Manaus"
+        "aliases": [
+            "Brazil/West"
+        ]
     },
     {
         "name": "America/Martinique",
-        "zone": "America/Martinique"
+        "aliases": []
     },
     {
         "name": "America/Matamoros",
-        "zone": "America/Matamoros"
+        "aliases": []
     },
     {
         "name": "America/Mazatlan",
-        "zone": "America/Mazatlan"
+        "aliases": [
+            "Mexico/BajaSur"
+        ]
     },
     {
         "name": "America/Menominee",
-        "zone": "America/Menominee"
+        "aliases": []
     },
     {
         "name": "America/Merida",
-        "zone": "America/Merida"
+        "aliases": []
     },
     {
         "name": "America/Metlakatla",
-        "zone": "America/Metlakatla"
+        "aliases": []
     },
     {
         "name": "America/Mexico_City",
-        "zone": "America/Mexico_City"
+        "aliases": [
+            "Mexico/General"
+        ]
     },
     {
         "name": "America/Miquelon",
-        "zone": "America/Miquelon"
+        "aliases": []
     },
     {
         "name": "America/Moncton",
-        "zone": "America/Moncton"
+        "aliases": []
     },
     {
         "name": "America/Monterrey",
-        "zone": "America/Monterrey"
+        "aliases": []
     },
     {
         "name": "America/Montevideo",
-        "zone": "America/Montevideo"
-    },
-    {
-        "name": "America/Nassau",
-        "zone": "America/Toronto"
+        "aliases": []
     },
     {
         "name": "America/New_York",
-        "zone": "America/New_York"
-    },
-    {
-        "name": "America/Nipigon",
-        "zone": "America/Toronto"
+        "aliases": [
+            "US/Eastern"
+        ]
     },
     {
         "name": "America/Nome",
-        "zone": "America/Nome"
+        "aliases": []
     },
     {
         "name": "America/Noronha",
-        "zone": "America/Noronha"
+        "aliases": [
+            "Brazil/DeNoronha"
+        ]
     },
     {
         "name": "America/North_Dakota/Beulah",
-        "zone": "America/North_Dakota/Beulah"
+        "aliases": []
     },
     {
         "name": "America/North_Dakota/Center",
-        "zone": "America/North_Dakota/Center"
+        "aliases": []
     },
     {
         "name": "America/North_Dakota/New_Salem",
-        "zone": "America/North_Dakota/New_Salem"
+        "aliases": []
     },
     {
         "name": "America/Nuuk",
-        "zone": "America/Nuuk"
+        "aliases": [
+            "America/Godthab"
+        ]
     },
     {
         "name": "America/Ojinaga",
-        "zone": "America/Ojinaga"
-    },
-    {
-        "name": "America/Pangnirtung",
-        "zone": "America/Iqaluit"
+        "aliases": []
     },
     {
         "name": "America/Panama",
-        "zone": "America/Panama"
+        "aliases": [
+            "America/Atikokan",
+            "America/Cayman",
+            "America/Coral_Harbour"
+        ]
     },
     {
         "name": "America/Paramaribo",
-        "zone": "America/Paramaribo"
+        "aliases": []
     },
     {
         "name": "America/Phoenix",
-        "zone": "America/Phoenix"
+        "aliases": [
+            "America/Creston",
+            "US/Arizona"
+        ]
     },
     {
         "name": "America/Port-au-Prince",
-        "zone": "America/Port-au-Prince"
-    },
-    {
-        "name": "America/Port_of_Spain",
-        "zone": "America/Puerto_Rico"
+        "aliases": []
     },
     {
         "name": "America/Porto_Velho",
-        "zone": "America/Porto_Velho"
+        "aliases": []
     },
     {
         "name": "America/Puerto_Rico",
-        "zone": "America/Puerto_Rico"
+        "aliases": [
+            "America/Anguilla",
+            "America/Antigua",
+            "America/Aruba",
+            "America/Blanc-Sablon",
+            "America/Curacao",
+            "America/Dominica",
+            "America/Grenada",
+            "America/Guadeloupe",
+            "America/Kralendijk",
+            "America/Lower_Princes",
+            "America/Marigot",
+            "America/Montserrat",
+            "America/Port_of_Spain",
+            "America/St_Barthelemy",
+            "America/St_Kitts",
+            "America/St_Lucia",
+            "America/St_Thomas",
+            "America/St_Vincent",
+            "America/Tortola",
+            "America/Virgin"
+        ]
     },
     {
         "name": "America/Punta_Arenas",
-        "zone": "America/Punta_Arenas"
-    },
-    {
-        "name": "America/Rainy_River",
-        "zone": "America/Winnipeg"
+        "aliases": []
     },
     {
         "name": "America/Rankin_Inlet",
-        "zone": "America/Rankin_Inlet"
+        "aliases": []
     },
     {
         "name": "America/Recife",
-        "zone": "America/Recife"
+        "aliases": []
     },
     {
         "name": "America/Regina",
-        "zone": "America/Regina"
+        "aliases": [
+            "Canada/Saskatchewan"
+        ]
     },
     {
         "name": "America/Resolute",
-        "zone": "America/Resolute"
+        "aliases": []
     },
     {
         "name": "America/Rio_Branco",
-        "zone": "America/Rio_Branco"
+        "aliases": [
+            "America/Porto_Acre",
+            "Brazil/Acre"
+        ]
     },
     {
         "name": "America/Santarem",
-        "zone": "America/Santarem"
+        "aliases": []
     },
     {
         "name": "America/Santiago",
-        "zone": "America/Santiago"
+        "aliases": [
+            "Chile/Continental"
+        ]
     },
     {
         "name": "America/Santo_Domingo",
-        "zone": "America/Santo_Domingo"
+        "aliases": []
     },
     {
         "name": "America/Sao_Paulo",
-        "zone": "America/Sao_Paulo"
+        "aliases": [
+            "Brazil/East"
+        ]
     },
     {
         "name": "America/Scoresbysund",
-        "zone": "America/Scoresbysund"
+        "aliases": []
     },
     {
         "name": "America/Sitka",
-        "zone": "America/Sitka"
+        "aliases": []
     },
     {
         "name": "America/St_Johns",
-        "zone": "America/St_Johns"
+        "aliases": [
+            "Canada/Newfoundland"
+        ]
     },
     {
         "name": "America/Swift_Current",
-        "zone": "America/Swift_Current"
+        "aliases": []
     },
     {
         "name": "America/Tegucigalpa",
-        "zone": "America/Tegucigalpa"
+        "aliases": []
     },
     {
         "name": "America/Thule",
-        "zone": "America/Thule"
-    },
-    {
-        "name": "America/Thunder_Bay",
-        "zone": "America/Toronto"
+        "aliases": []
     },
     {
         "name": "America/Tijuana",
-        "zone": "America/Tijuana"
+        "aliases": [
+            "America/Ensenada",
+            "America/Santa_Isabel",
+            "Mexico/BajaNorte"
+        ]
     },
     {
         "name": "America/Toronto",
-        "zone": "America/Toronto"
+        "aliases": [
+            "America/Montreal",
+            "America/Nassau",
+            "America/Nipigon",
+            "America/Thunder_Bay",
+            "Canada/Eastern"
+        ]
     },
     {
         "name": "America/Vancouver",
-        "zone": "America/Vancouver"
+        "aliases": [
+            "Canada/Pacific"
+        ]
     },
     {
         "name": "America/Whitehorse",
-        "zone": "America/Whitehorse"
+        "aliases": [
+            "Canada/Yukon"
+        ]
     },
     {
         "name": "America/Winnipeg",
-        "zone": "America/Winnipeg"
+        "aliases": [
+            "America/Rainy_River",
+            "Canada/Central"
+        ]
     },
     {
         "name": "America/Yakutat",
-        "zone": "America/Yakutat"
-    },
-    {
-        "name": "America/Yellowknife",
-        "zone": "America/Edmonton"
+        "aliases": []
     },
     {
         "name": "Antarctica/Casey",
-        "zone": "Antarctica/Casey"
+        "aliases": []
     },
     {
         "name": "Antarctica/Davis",
-        "zone": "Antarctica/Davis"
-    },
-    {
-        "name": "Antarctica/DumontDUrville",
-        "zone": "Pacific/Port_Moresby"
+        "aliases": []
     },
     {
         "name": "Antarctica/Macquarie",
-        "zone": "Antarctica/Macquarie"
+        "aliases": []
     },
     {
         "name": "Antarctica/Mawson",
-        "zone": "Antarctica/Mawson"
+        "aliases": []
     },
     {
         "name": "Antarctica/Palmer",
-        "zone": "Antarctica/Palmer"
+        "aliases": []
     },
     {
         "name": "Antarctica/Rothera",
-        "zone": "Antarctica/Rothera"
-    },
-    {
-        "name": "Antarctica/Syowa",
-        "zone": "Asia/Riyadh"
+        "aliases": []
     },
     {
         "name": "Antarctica/Troll",
-        "zone": "Antarctica/Troll"
-    },
-    {
-        "name": "Antarctica/Vostok",
-        "zone": "Asia/Urumqi"
+        "aliases": []
     },
     {
         "name": "Asia/Almaty",
-        "zone": "Asia/Almaty"
+        "aliases": []
     },
     {
         "name": "Asia/Amman",
-        "zone": "Asia/Amman"
+        "aliases": []
     },
     {
         "name": "Asia/Anadyr",
-        "zone": "Asia/Anadyr"
+        "aliases": []
     },
     {
         "name": "Asia/Aqtau",
-        "zone": "Asia/Aqtau"
+        "aliases": []
     },
     {
         "name": "Asia/Aqtobe",
-        "zone": "Asia/Aqtobe"
+        "aliases": []
     },
     {
         "name": "Asia/Ashgabat",
-        "zone": "Asia/Ashgabat"
+        "aliases": [
+            "Asia/Ashkhabad"
+        ]
     },
     {
         "name": "Asia/Atyrau",
-        "zone": "Asia/Atyrau"
+        "aliases": []
     },
     {
         "name": "Asia/Baghdad",
-        "zone": "Asia/Baghdad"
+        "aliases": []
     },
     {
         "name": "Asia/Baku",
-        "zone": "Asia/Baku"
+        "aliases": []
     },
     {
         "name": "Asia/Bangkok",
-        "zone": "Asia/Bangkok"
+        "aliases": [
+            "Asia/Phnom_Penh",
+            "Asia/Vientiane",
+            "Indian/Christmas"
+        ]
     },
     {
         "name": "Asia/Barnaul",
-        "zone": "Asia/Barnaul"
+        "aliases": []
     },
     {
         "name": "Asia/Beirut",
-        "zone": "Asia/Beirut"
+        "aliases": []
     },
     {
         "name": "Asia/Bishkek",
-        "zone": "Asia/Bishkek"
-    },
-    {
-        "name": "Asia/Brunei",
-        "zone": "Asia/Kuching"
+        "aliases": []
     },
     {
         "name": "Asia/Chita",
-        "zone": "Asia/Chita"
+        "aliases": []
     },
     {
         "name": "Asia/Choibalsan",
-        "zone": "Asia/Choibalsan"
+        "aliases": []
     },
     {
         "name": "Asia/Colombo",
-        "zone": "Asia/Colombo"
+        "aliases": []
     },
     {
         "name": "Asia/Damascus",
-        "zone": "Asia/Damascus"
+        "aliases": []
     },
     {
         "name": "Asia/Dhaka",
-        "zone": "Asia/Dhaka"
+        "aliases": [
+            "Asia/Dacca"
+        ]
     },
     {
         "name": "Asia/Dili",
-        "zone": "Asia/Dili"
+        "aliases": []
     },
     {
         "name": "Asia/Dubai",
-        "zone": "Asia/Dubai"
+        "aliases": [
+            "Asia/Muscat",
+            "Indian/Mahe",
+            "Indian/Reunion"
+        ]
     },
     {
         "name": "Asia/Dushanbe",
-        "zone": "Asia/Dushanbe"
+        "aliases": []
     },
     {
         "name": "Asia/Famagusta",
-        "zone": "Asia/Famagusta"
+        "aliases": []
     },
     {
         "name": "Asia/Gaza",
-        "zone": "Asia/Gaza"
+        "aliases": []
     },
     {
         "name": "Asia/Hebron",
-        "zone": "Asia/Hebron"
+        "aliases": []
     },
     {
         "name": "Asia/Ho_Chi_Minh",
-        "zone": "Asia/Ho_Chi_Minh"
+        "aliases": [
+            "Asia/Saigon"
+        ]
     },
     {
         "name": "Asia/Hong_Kong",
-        "zone": "Asia/Hong_Kong"
+        "aliases": [
+            "Hongkong"
+        ]
     },
     {
         "name": "Asia/Hovd",
-        "zone": "Asia/Hovd"
+        "aliases": []
     },
     {
         "name": "Asia/Irkutsk",
-        "zone": "Asia/Irkutsk"
+        "aliases": []
     },
     {
         "name": "Asia/Jakarta",
-        "zone": "Asia/Jakarta"
+        "aliases": []
     },
     {
         "name": "Asia/Jayapura",
-        "zone": "Asia/Jayapura"
+        "aliases": []
     },
     {
         "name": "Asia/Jerusalem",
-        "zone": "Asia/Jerusalem"
+        "aliases": [
+            "Asia/Tel_Aviv",
+            "Israel"
+        ]
     },
     {
         "name": "Asia/Kabul",
-        "zone": "Asia/Kabul"
+        "aliases": []
     },
     {
         "name": "Asia/Kamchatka",
-        "zone": "Asia/Kamchatka"
+        "aliases": []
     },
     {
         "name": "Asia/Karachi",
-        "zone": "Asia/Karachi"
+        "aliases": []
     },
     {
         "name": "Asia/Kathmandu",
-        "zone": "Asia/Kathmandu"
+        "aliases": [
+            "Asia/Katmandu"
+        ]
     },
     {
         "name": "Asia/Khandyga",
-        "zone": "Asia/Khandyga"
+        "aliases": []
     },
     {
         "name": "Asia/Kolkata",
-        "zone": "Asia/Kolkata"
+        "aliases": [
+            "Asia/Calcutta"
+        ]
     },
     {
         "name": "Asia/Krasnoyarsk",
-        "zone": "Asia/Krasnoyarsk"
-    },
-    {
-        "name": "Asia/Kuala_Lumpur",
-        "zone": "Asia/Singapore"
+        "aliases": []
     },
     {
         "name": "Asia/Kuching",
-        "zone": "Asia/Kuching"
+        "aliases": [
+            "Asia/Brunei"
+        ]
     },
     {
         "name": "Asia/Macau",
-        "zone": "Asia/Macau"
+        "aliases": [
+            "Asia/Macao"
+        ]
     },
     {
         "name": "Asia/Magadan",
-        "zone": "Asia/Magadan"
+        "aliases": []
     },
     {
         "name": "Asia/Makassar",
-        "zone": "Asia/Makassar"
+        "aliases": [
+            "Asia/Ujung_Pandang"
+        ]
     },
     {
         "name": "Asia/Manila",
-        "zone": "Asia/Manila"
+        "aliases": []
     },
     {
         "name": "Asia/Nicosia",
-        "zone": "Asia/Nicosia"
+        "aliases": [
+            "Europe/Nicosia"
+        ]
     },
     {
         "name": "Asia/Novokuznetsk",
-        "zone": "Asia/Novokuznetsk"
+        "aliases": []
     },
     {
         "name": "Asia/Novosibirsk",
-        "zone": "Asia/Novosibirsk"
+        "aliases": []
     },
     {
         "name": "Asia/Omsk",
-        "zone": "Asia/Omsk"
+        "aliases": []
     },
     {
         "name": "Asia/Oral",
-        "zone": "Asia/Oral"
+        "aliases": []
     },
     {
         "name": "Asia/Pontianak",
-        "zone": "Asia/Pontianak"
+        "aliases": []
     },
     {
         "name": "Asia/Pyongyang",
-        "zone": "Asia/Pyongyang"
+        "aliases": []
     },
     {
         "name": "Asia/Qatar",
-        "zone": "Asia/Qatar"
+        "aliases": [
+            "Asia/Bahrain"
+        ]
     },
     {
         "name": "Asia/Qostanay",
-        "zone": "Asia/Qostanay"
+        "aliases": []
     },
     {
         "name": "Asia/Qyzylorda",
-        "zone": "Asia/Qyzylorda"
+        "aliases": []
     },
     {
         "name": "Asia/Riyadh",
-        "zone": "Asia/Riyadh"
+        "aliases": [
+            "Antarctica/Syowa",
+            "Asia/Aden",
+            "Asia/Kuwait"
+        ]
     },
     {
         "name": "Asia/Sakhalin",
-        "zone": "Asia/Sakhalin"
+        "aliases": []
     },
     {
         "name": "Asia/Samarkand",
-        "zone": "Asia/Samarkand"
+        "aliases": []
     },
     {
         "name": "Asia/Seoul",
-        "zone": "Asia/Seoul"
+        "aliases": [
+            "ROK"
+        ]
     },
     {
         "name": "Asia/Shanghai",
-        "zone": "Asia/Shanghai"
+        "aliases": [
+            "Asia/Chongqing",
+            "Asia/Chungking",
+            "Asia/Harbin",
+            "PRC"
+        ]
     },
     {
         "name": "Asia/Singapore",
-        "zone": "Asia/Singapore"
+        "aliases": [
+            "Asia/Kuala_Lumpur",
+            "Singapore"
+        ]
     },
     {
         "name": "Asia/Srednekolymsk",
-        "zone": "Asia/Srednekolymsk"
+        "aliases": []
     },
     {
         "name": "Asia/Taipei",
-        "zone": "Asia/Taipei"
+        "aliases": [
+            "ROC"
+        ]
     },
     {
         "name": "Asia/Tashkent",
-        "zone": "Asia/Tashkent"
+        "aliases": []
     },
     {
         "name": "Asia/Tbilisi",
-        "zone": "Asia/Tbilisi"
+        "aliases": []
     },
     {
         "name": "Asia/Tehran",
-        "zone": "Asia/Tehran"
+        "aliases": [
+            "Iran"
+        ]
     },
     {
         "name": "Asia/Thimphu",
-        "zone": "Asia/Thimphu"
+        "aliases": [
+            "Asia/Thimbu"
+        ]
     },
     {
         "name": "Asia/Tokyo",
-        "zone": "Asia/Tokyo"
+        "aliases": [
+            "Japan"
+        ]
     },
     {
         "name": "Asia/Tomsk",
-        "zone": "Asia/Tomsk"
+        "aliases": []
     },
     {
         "name": "Asia/Ulaanbaatar",
-        "zone": "Asia/Ulaanbaatar"
+        "aliases": [
+            "Asia/Ulan_Bator"
+        ]
     },
     {
         "name": "Asia/Urumqi",
-        "zone": "Asia/Urumqi"
+        "aliases": [
+            "Antarctica/Vostok",
+            "Asia/Kashgar"
+        ]
     },
     {
         "name": "Asia/Ust-Nera",
-        "zone": "Asia/Ust-Nera"
+        "aliases": []
     },
     {
         "name": "Asia/Vladivostok",
-        "zone": "Asia/Vladivostok"
+        "aliases": []
     },
     {
         "name": "Asia/Yakutsk",
-        "zone": "Asia/Yakutsk"
+        "aliases": []
     },
     {
         "name": "Asia/Yangon",
-        "zone": "Asia/Yangon"
+        "aliases": [
+            "Asia/Rangoon",
+            "Indian/Cocos"
+        ]
     },
     {
         "name": "Asia/Yekaterinburg",
-        "zone": "Asia/Yekaterinburg"
+        "aliases": []
     },
     {
         "name": "Asia/Yerevan",
-        "zone": "Asia/Yerevan"
+        "aliases": []
     },
     {
         "name": "Atlantic/Azores",
-        "zone": "Atlantic/Azores"
+        "aliases": []
     },
     {
         "name": "Atlantic/Bermuda",
-        "zone": "Atlantic/Bermuda"
+        "aliases": []
     },
     {
         "name": "Atlantic/Canary",
-        "zone": "Atlantic/Canary"
+        "aliases": []
     },
     {
         "name": "Atlantic/Cape_Verde",
-        "zone": "Atlantic/Cape_Verde"
+        "aliases": []
     },
     {
         "name": "Atlantic/Faroe",
-        "zone": "Atlantic/Faroe"
+        "aliases": [
+            "Atlantic/Faeroe"
+        ]
     },
     {
         "name": "Atlantic/Madeira",
-        "zone": "Atlantic/Madeira"
-    },
-    {
-        "name": "Atlantic/Reykjavik",
-        "zone": "Africa/Abidjan"
+        "aliases": []
     },
     {
         "name": "Atlantic/South_Georgia",
-        "zone": "Atlantic/South_Georgia"
+        "aliases": []
     },
     {
         "name": "Atlantic/Stanley",
-        "zone": "Atlantic/Stanley"
+        "aliases": []
     },
     {
         "name": "Australia/Adelaide",
-        "zone": "Australia/Adelaide"
+        "aliases": [
+            "Australia/South"
+        ]
     },
     {
         "name": "Australia/Brisbane",
-        "zone": "Australia/Brisbane"
+        "aliases": [
+            "Australia/Queensland"
+        ]
     },
     {
         "name": "Australia/Broken_Hill",
-        "zone": "Australia/Broken_Hill"
-    },
-    {
-        "name": "Australia/Currie",
-        "zone": "Australia/Hobart"
+        "aliases": [
+            "Australia/Yancowinna"
+        ]
     },
     {
         "name": "Australia/Darwin",
-        "zone": "Australia/Darwin"
+        "aliases": [
+            "Australia/North"
+        ]
     },
     {
         "name": "Australia/Eucla",
-        "zone": "Australia/Eucla"
+        "aliases": []
     },
     {
         "name": "Australia/Hobart",
-        "zone": "Australia/Hobart"
+        "aliases": [
+            "Australia/Currie",
+            "Australia/Tasmania"
+        ]
     },
     {
         "name": "Australia/Lindeman",
-        "zone": "Australia/Lindeman"
+        "aliases": []
     },
     {
         "name": "Australia/Lord_Howe",
-        "zone": "Australia/Lord_Howe"
+        "aliases": [
+            "Australia/LHI"
+        ]
     },
     {
         "name": "Australia/Melbourne",
-        "zone": "Australia/Melbourne"
+        "aliases": [
+            "Australia/Victoria"
+        ]
     },
     {
         "name": "Australia/Perth",
-        "zone": "Australia/Perth"
+        "aliases": [
+            "Australia/West"
+        ]
     },
     {
         "name": "Australia/Sydney",
-        "zone": "Australia/Sydney"
+        "aliases": [
+            "Australia/ACT",
+            "Australia/Canberra",
+            "Australia/NSW"
+        ]
     },
     {
         "name": "CET",
-        "zone": "CET"
+        "aliases": []
     },
     {
         "name": "CST6CDT",
-        "zone": "CST6CDT"
+        "aliases": []
     },
     {
         "name": "EET",
-        "zone": "EET"
+        "aliases": []
     },
     {
         "name": "EST",
-        "zone": "EST"
+        "aliases": []
     },
     {
         "name": "EST5EDT",
-        "zone": "EST5EDT"
+        "aliases": []
     },
     {
         "name": "Etc/GMT",
-        "zone": "Etc/GMT"
+        "aliases": [
+            "Etc/GMT+0",
+            "Etc/GMT-0",
+            "Etc/GMT0",
+            "Etc/Greenwich",
+            "GMT",
+            "GMT+0",
+            "GMT-0",
+            "GMT0",
+            "Greenwich"
+        ]
     },
     {
         "name": "Etc/GMT+1",
-        "zone": "Etc/GMT+1"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+10",
-        "zone": "Etc/GMT+10"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+11",
-        "zone": "Etc/GMT+11"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+12",
-        "zone": "Etc/GMT+12"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+2",
-        "zone": "Etc/GMT+2"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+3",
-        "zone": "Etc/GMT+3"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+4",
-        "zone": "Etc/GMT+4"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+5",
-        "zone": "Etc/GMT+5"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+6",
-        "zone": "Etc/GMT+6"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+7",
-        "zone": "Etc/GMT+7"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+8",
-        "zone": "Etc/GMT+8"
+        "aliases": []
     },
     {
         "name": "Etc/GMT+9",
-        "zone": "Etc/GMT+9"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-1",
-        "zone": "Etc/GMT-1"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-10",
-        "zone": "Etc/GMT-10"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-11",
-        "zone": "Etc/GMT-11"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-12",
-        "zone": "Etc/GMT-12"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-13",
-        "zone": "Etc/GMT-13"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-14",
-        "zone": "Etc/GMT-14"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-2",
-        "zone": "Etc/GMT-2"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-3",
-        "zone": "Etc/GMT-3"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-4",
-        "zone": "Etc/GMT-4"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-5",
-        "zone": "Etc/GMT-5"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-6",
-        "zone": "Etc/GMT-6"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-7",
-        "zone": "Etc/GMT-7"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-8",
-        "zone": "Etc/GMT-8"
+        "aliases": []
     },
     {
         "name": "Etc/GMT-9",
-        "zone": "Etc/GMT-9"
+        "aliases": []
     },
     {
         "name": "Etc/UTC",
-        "zone": "Etc/UTC"
-    },
-    {
-        "name": "Europe/Amsterdam",
-        "zone": "Europe/Brussels"
+        "aliases": [
+            "Etc/UCT",
+            "Etc/Universal",
+            "Etc/Zulu",
+            "UCT",
+            "UTC",
+            "Universal",
+            "Zulu"
+        ]
     },
     {
         "name": "Europe/Andorra",
-        "zone": "Europe/Andorra"
+        "aliases": []
     },
     {
         "name": "Europe/Astrakhan",
-        "zone": "Europe/Astrakhan"
+        "aliases": []
     },
     {
         "name": "Europe/Athens",
-        "zone": "Europe/Athens"
+        "aliases": []
     },
     {
         "name": "Europe/Belgrade",
-        "zone": "Europe/Belgrade"
+        "aliases": [
+            "Europe/Ljubljana",
+            "Europe/Podgorica",
+            "Europe/Sarajevo",
+            "Europe/Skopje",
+            "Europe/Zagreb"
+        ]
     },
     {
         "name": "Europe/Berlin",
-        "zone": "Europe/Berlin"
+        "aliases": [
+            "Arctic/Longyearbyen",
+            "Atlantic/Jan_Mayen",
+            "Europe/Copenhagen",
+            "Europe/Oslo",
+            "Europe/Stockholm"
+        ]
     },
     {
         "name": "Europe/Brussels",
-        "zone": "Europe/Brussels"
+        "aliases": [
+            "Europe/Amsterdam",
+            "Europe/Luxembourg"
+        ]
     },
     {
         "name": "Europe/Bucharest",
-        "zone": "Europe/Bucharest"
+        "aliases": []
     },
     {
         "name": "Europe/Budapest",
-        "zone": "Europe/Budapest"
+        "aliases": []
     },
     {
         "name": "Europe/Chisinau",
-        "zone": "Europe/Chisinau"
-    },
-    {
-        "name": "Europe/Copenhagen",
-        "zone": "Europe/Berlin"
+        "aliases": [
+            "Europe/Tiraspol"
+        ]
     },
     {
         "name": "Europe/Dublin",
-        "zone": "Europe/Dublin"
+        "aliases": [
+            "Eire"
+        ]
     },
     {
         "name": "Europe/Gibraltar",
-        "zone": "Europe/Gibraltar"
+        "aliases": []
     },
     {
         "name": "Europe/Helsinki",
-        "zone": "Europe/Helsinki"
+        "aliases": [
+            "Europe/Mariehamn"
+        ]
     },
     {
         "name": "Europe/Istanbul",
-        "zone": "Europe/Istanbul"
+        "aliases": [
+            "Asia/Istanbul",
+            "Turkey"
+        ]
     },
     {
         "name": "Europe/Kaliningrad",
-        "zone": "Europe/Kaliningrad"
+        "aliases": []
     },
     {
         "name": "Europe/Kirov",
-        "zone": "Europe/Kirov"
-    },
-    {
-        "name": "Europe/Kiev",
-        "zone": "Europe/Kyiv"
+        "aliases": []
     },
     {
         "name": "Europe/Kyiv",
-        "zone": "Europe/Kyiv"
+        "aliases": [
+            "Europe/Kiev",
+            "Europe/Uzhgorod",
+            "Europe/Zaporozhye"
+        ]
     },
     {
         "name": "Europe/Lisbon",
-        "zone": "Europe/Lisbon"
+        "aliases": [
+            "Portugal"
+        ]
     },
     {
         "name": "Europe/London",
-        "zone": "Europe/London"
-    },
-    {
-        "name": "Europe/Luxembourg",
-        "zone": "Europe/Brussels"
+        "aliases": [
+            "Europe/Belfast",
+            "Europe/Guernsey",
+            "Europe/Isle_of_Man",
+            "Europe/Jersey",
+            "GB",
+            "GB-Eire"
+        ]
     },
     {
         "name": "Europe/Madrid",
-        "zone": "Europe/Madrid"
+        "aliases": []
     },
     {
         "name": "Europe/Malta",
-        "zone": "Europe/Malta"
+        "aliases": []
     },
     {
         "name": "Europe/Minsk",
-        "zone": "Europe/Minsk"
-    },
-    {
-        "name": "Europe/Monaco",
-        "zone": "Europe/Paris"
+        "aliases": []
     },
     {
         "name": "Europe/Moscow",
-        "zone": "Europe/Moscow"
-    },
-    {
-        "name": "Europe/Oslo",
-        "zone": "Europe/Berlin"
+        "aliases": [
+            "W-SU"
+        ]
     },
     {
         "name": "Europe/Paris",
-        "zone": "Europe/Paris"
+        "aliases": [
+            "Europe/Monaco"
+        ]
     },
     {
         "name": "Europe/Prague",
-        "zone": "Europe/Prague"
+        "aliases": [
+            "Europe/Bratislava"
+        ]
     },
     {
         "name": "Europe/Riga",
-        "zone": "Europe/Riga"
+        "aliases": []
     },
     {
         "name": "Europe/Rome",
-        "zone": "Europe/Rome"
+        "aliases": [
+            "Europe/San_Marino",
+            "Europe/Vatican"
+        ]
     },
     {
         "name": "Europe/Samara",
-        "zone": "Europe/Samara"
+        "aliases": []
     },
     {
         "name": "Europe/Saratov",
-        "zone": "Europe/Saratov"
+        "aliases": []
     },
     {
         "name": "Europe/Simferopol",
-        "zone": "Europe/Simferopol"
+        "aliases": []
     },
     {
         "name": "Europe/Sofia",
-        "zone": "Europe/Sofia"
-    },
-    {
-        "name": "Europe/Stockholm",
-        "zone": "Europe/Berlin"
+        "aliases": []
     },
     {
         "name": "Europe/Tallinn",
-        "zone": "Europe/Tallinn"
+        "aliases": []
     },
     {
         "name": "Europe/Tirane",
-        "zone": "Europe/Tirane"
+        "aliases": []
     },
     {
         "name": "Europe/Ulyanovsk",
-        "zone": "Europe/Ulyanovsk"
-    },
-    {
-        "name": "Europe/Uzhgorod",
-        "zone": "Europe/Kyiv"
+        "aliases": []
     },
     {
         "name": "Europe/Vienna",
-        "zone": "Europe/Vienna"
+        "aliases": []
     },
     {
         "name": "Europe/Vilnius",
-        "zone": "Europe/Vilnius"
+        "aliases": []
     },
     {
         "name": "Europe/Volgograd",
-        "zone": "Europe/Volgograd"
+        "aliases": []
     },
     {
         "name": "Europe/Warsaw",
-        "zone": "Europe/Warsaw"
-    },
-    {
-        "name": "Europe/Zaporozhye",
-        "zone": "Europe/Kyiv"
+        "aliases": [
+            "Poland"
+        ]
     },
     {
         "name": "Europe/Zurich",
-        "zone": "Europe/Zurich"
+        "aliases": [
+            "Europe/Busingen",
+            "Europe/Vaduz"
+        ]
     },
     {
         "name": "HST",
-        "zone": "HST"
+        "aliases": []
     },
     {
         "name": "Indian/Chagos",
-        "zone": "Indian/Chagos"
-    },
-    {
-        "name": "Indian/Christmas",
-        "zone": "Asia/Bangkok"
-    },
-    {
-        "name": "Indian/Cocos",
-        "zone": "Asia/Yangon"
-    },
-    {
-        "name": "Indian/Kerguelen",
-        "zone": "Indian/Maldives"
+        "aliases": []
     },
     {
         "name": "Indian/Maldives",
-        "zone": "Indian/Maldives"
+        "aliases": [
+            "Indian/Kerguelen"
+        ]
     },
     {
         "name": "Indian/Mauritius",
-        "zone": "Indian/Mauritius"
-    },
-    {
-        "name": "Indian/Mahe",
-        "zone": "Asia/Dubai"
-    },
-    {
-        "name": "Indian/Reunion",
-        "zone": "Asia/Dubai"
+        "aliases": []
     },
     {
         "name": "MET",
-        "zone": "MET"
+        "aliases": []
     },
     {
         "name": "MST",
-        "zone": "MST"
+        "aliases": []
     },
     {
         "name": "MST7MDT",
-        "zone": "MST7MDT"
+        "aliases": []
     },
     {
         "name": "PST8PDT",
-        "zone": "PST8PDT"
+        "aliases": []
     },
     {
         "name": "Pacific/Apia",
-        "zone": "Pacific/Apia"
+        "aliases": []
     },
     {
         "name": "Pacific/Auckland",
-        "zone": "Pacific/Auckland"
+        "aliases": [
+            "Antarctica/McMurdo",
+            "Antarctica/South_Pole",
+            "NZ"
+        ]
     },
     {
         "name": "Pacific/Bougainville",
-        "zone": "Pacific/Bougainville"
+        "aliases": []
     },
     {
         "name": "Pacific/Chatham",
-        "zone": "Pacific/Chatham"
-    },
-    {
-        "name": "Pacific/Chuuk",
-        "zone": "Pacific/Port_Moresby"
+        "aliases": [
+            "NZ-CHAT"
+        ]
     },
     {
         "name": "Pacific/Easter",
-        "zone": "Pacific/Easter"
+        "aliases": [
+            "Chile/EasterIsland"
+        ]
     },
     {
         "name": "Pacific/Efate",
-        "zone": "Pacific/Efate"
-    },
-    {
-        "name": "Pacific/Enderbury",
-        "zone": "Pacific/Kanton"
+        "aliases": []
     },
     {
         "name": "Pacific/Fakaofo",
-        "zone": "Pacific/Fakaofo"
+        "aliases": []
     },
     {
         "name": "Pacific/Fiji",
-        "zone": "Pacific/Fiji"
-    },
-    {
-        "name": "Pacific/Funafuti",
-        "zone": "Pacific/Tarawa"
+        "aliases": []
     },
     {
         "name": "Pacific/Galapagos",
-        "zone": "Pacific/Galapagos"
+        "aliases": []
     },
     {
         "name": "Pacific/Gambier",
-        "zone": "Pacific/Gambier"
+        "aliases": []
     },
     {
         "name": "Pacific/Guadalcanal",
-        "zone": "Pacific/Guadalcanal"
+        "aliases": [
+            "Pacific/Pohnpei",
+            "Pacific/Ponape"
+        ]
     },
     {
         "name": "Pacific/Guam",
-        "zone": "Pacific/Guam"
+        "aliases": [
+            "Pacific/Saipan"
+        ]
     },
     {
         "name": "Pacific/Honolulu",
-        "zone": "Pacific/Honolulu"
+        "aliases": [
+            "Pacific/Johnston",
+            "US/Hawaii"
+        ]
     },
     {
         "name": "Pacific/Kanton",
-        "zone": "Pacific/Kanton"
+        "aliases": [
+            "Pacific/Enderbury"
+        ]
     },
     {
         "name": "Pacific/Kiritimati",
-        "zone": "Pacific/Kiritimati"
+        "aliases": []
     },
     {
         "name": "Pacific/Kosrae",
-        "zone": "Pacific/Kosrae"
+        "aliases": []
     },
     {
         "name": "Pacific/Kwajalein",
-        "zone": "Pacific/Kwajalein"
-    },
-    {
-        "name": "Pacific/Majuro",
-        "zone": "Pacific/Tarawa"
+        "aliases": [
+            "Kwajalein"
+        ]
     },
     {
         "name": "Pacific/Marquesas",
-        "zone": "Pacific/Marquesas"
+        "aliases": []
     },
     {
         "name": "Pacific/Nauru",
-        "zone": "Pacific/Nauru"
+        "aliases": []
     },
     {
         "name": "Pacific/Niue",
-        "zone": "Pacific/Niue"
+        "aliases": []
     },
     {
         "name": "Pacific/Norfolk",
-        "zone": "Pacific/Norfolk"
+        "aliases": []
     },
     {
         "name": "Pacific/Noumea",
-        "zone": "Pacific/Noumea"
+        "aliases": []
     },
     {
         "name": "Pacific/Pago_Pago",
-        "zone": "Pacific/Pago_Pago"
+        "aliases": [
+            "Pacific/Midway",
+            "Pacific/Samoa",
+            "US/Samoa"
+        ]
     },
     {
         "name": "Pacific/Palau",
-        "zone": "Pacific/Palau"
+        "aliases": []
     },
     {
         "name": "Pacific/Pitcairn",
-        "zone": "Pacific/Pitcairn"
-    },
-    {
-        "name": "Pacific/Pohnpei",
-        "zone": "Pacific/Guadalcanal"
+        "aliases": []
     },
     {
         "name": "Pacific/Port_Moresby",
-        "zone": "Pacific/Port_Moresby"
+        "aliases": [
+            "Antarctica/DumontDUrville",
+            "Pacific/Chuuk",
+            "Pacific/Truk",
+            "Pacific/Yap"
+        ]
     },
     {
         "name": "Pacific/Rarotonga",
-        "zone": "Pacific/Rarotonga"
+        "aliases": []
     },
     {
         "name": "Pacific/Tahiti",
-        "zone": "Pacific/Tahiti"
+        "aliases": []
     },
     {
         "name": "Pacific/Tarawa",
-        "zone": "Pacific/Tarawa"
+        "aliases": [
+            "Pacific/Funafuti",
+            "Pacific/Majuro",
+            "Pacific/Wake",
+            "Pacific/Wallis"
+        ]
     },
     {
         "name": "Pacific/Tongatapu",
-        "zone": "Pacific/Tongatapu"
-    },
-    {
-        "name": "Pacific/Wake",
-        "zone": "Pacific/Tarawa"
-    },
-    {
-        "name": "Pacific/Wallis",
-        "zone": "Pacific/Tarawa"
+        "aliases": []
     },
     {
         "name": "WET",
-        "zone": "WET"
+        "aliases": []
     }
 ]
