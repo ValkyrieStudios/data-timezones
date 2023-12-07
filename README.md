@@ -15,13 +15,14 @@ npm install --save @valkyriestudios/data-timezones
 The data pack contains the following files:
 | File | Description | Included fields |
 |------|-------------|-----------------|
-| raw.json | Full timezone data pack | name |
+| raw.json | Full timezone data pack | name,zone |
 
 ## Fields
 The following is a description of the fields included in the data pack:
 | Field | Description |
 |------|-------------|
-| **name** | The name of the timezone |
+| **name** | The name of the timezone (this is either an alias or the zone id) |
+| **zone** | The official IANA Zone ID |
 
 ## Other data packs
 | Package | Description |
